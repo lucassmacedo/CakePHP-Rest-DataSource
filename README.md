@@ -1,4 +1,4 @@
-# Intalação
+# Instalação
 
 ## app/Config/bootstap.php
 
